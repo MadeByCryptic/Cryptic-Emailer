@@ -87,7 +87,7 @@ elif option == '4':
     print("[*] Generating Email...")
     sleep(1.5)
     session = GuerrillaMailSession()
-    print session.get_session_state()['email_address']
+    print(session.get_session_state()['email_address'])
 
     print("[*] Enjoy Your ThrowAway Email!")
 
