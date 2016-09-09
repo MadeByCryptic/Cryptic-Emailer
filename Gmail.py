@@ -1,5 +1,3 @@
-# email test (gmail)
-
 from time import sleep
 import smtplib
 import random
