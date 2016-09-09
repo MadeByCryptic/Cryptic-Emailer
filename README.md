@@ -17,4 +17,4 @@ Add Python3 functionality ~ Done
 
 ##NOTE## Sometimes you will get an authentication error, just sign into your email in your browser then close the browser and try the script again.
 
-##NOTE## For Python2 only at the moment, will be adding python3 functuality soon!
+##NOTE##<s> For Python2 only at the moment, will be adding python3 functuality soon!</s> It is now Python3 compatible!
