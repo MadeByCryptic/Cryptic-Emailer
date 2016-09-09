@@ -47,9 +47,7 @@ elif option == '2':
     MainContact = input("[*] Who Would You Like To Send The Email To: ")
     sleep(1)
     MainMessage = input("[*] What Would You Like The Email To Say: ")
-    sleep(2)
-    print("[*] Email Successfully Sent!")
-
+    
 
     server = smtplib.SMTP('smtp.live.com', 587)
     server.starttls()
@@ -58,6 +56,7 @@ elif option == '2':
     msg = (MainMessage)
     server.sendmail(MainLogin, MainContact, msg)
     server.quit()
+    print("[*] Email Successfully Sent!")
 
 elif option == '3':
 
