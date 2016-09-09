@@ -24,7 +24,7 @@ if option == '1':
     sleep(1)
     MainContact = input("[*] Who Would You Like To Send The Email To: ")
     sleep(1)
-    MainMessage = input("[*] What Would You LIke The Email To Say: ")
+    MainMessage = input("[*] What Would You Like The Email To Say: ")
     sleep(2)
     print("[*] Email Successfully Sent!")
 
@@ -45,7 +45,7 @@ elif option == '2':
     sleep(1)
     MainContact = input("[*] Who Would You Like To Send The Email To: ")
     sleep(1)
-    MainMessage = input("[*] What Would You LIke The Email To Say: ")
+    MainMessage = input("[*] What Would You Like The Email To Say: ")
     sleep(2)
     print("[*] Email Successfully Sent!")
 
@@ -66,7 +66,7 @@ elif option == '3':
     sleep(1.5)
     MainContact = input("[*] Who Would You Like To Send The Email To: ")
     sleep(1.5)
-    MainMessage = input("[*] What Would You LIke The Email To Say: ")
+    MainMessage = input("[*] What Would You Like The Email To Say: ")
     sleep(2)
     print("[*] Email Successfully Sent!")
 
