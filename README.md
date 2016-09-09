@@ -13,7 +13,7 @@ Feedback would be great!
 
 <b>.</b>Check if email sent successfully ~ Not Yet
 
-<b>.<b/>Add Python3 functionality ~ Done
+<b>.</b>Add Python3 functionality ~ Done
 
 ##NOTE## Sometimes you will get an authentication error, just sign into your email in your browser then close the browser and try the script again.
 
