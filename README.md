@@ -7,14 +7,14 @@ Feedback would be great!
 
 <b><i>Checklist:</i></b>
 
-<b>.</b>Combine All 3 into 1 ~ Done
+<b>.</b>Combine All three into one ~ Done!
 
-<b>.</b>add getpass module ~ Done
+<b>.</b>add getpass module ~ Done!
 
-<b>.</b>Check if email sent successfully ~ Not Yet
+<b>.</b>Check if email sent successfully ~ Not Yet.
 
-<b>.</b>Add Python3 functionality ~ Done
+<b>.</b>Add Python3 functionality ~ Done!
 
-##NOTE## Sometimes you will get an authentication error, just sign into your email in your browser then close the browser and try the script again.
+NOTE ~ Sometimes you will get an authentication error, just sign into your email in your browser then close the browser and try the script again.
 
-##NOTE##<s> For Python2 only at the moment, will be adding python3 functuality soon!</s> It is now Python3 compatible!
+NOTE ~<s> For Python2 only at the moment, will be adding python3 functuality soon!</s> It is now Python3 compatible!
